@@ -1,6 +1,6 @@
 # Url Shortener
 
-This repository is composed by:
+This organization is primarily composed by:
 - Url Shortener backend
 - Url Shortener frontend
 - Url Shortener watcher (checker for service status)
